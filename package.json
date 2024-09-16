@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.boattoy",                              
+  "displayName": "Kid Toy Boat Code",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Code to move boat as toy.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2023_09_15_KidToyBoatModeCode.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
